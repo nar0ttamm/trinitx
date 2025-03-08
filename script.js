@@ -106,7 +106,7 @@ document.head.appendChild(style);
 // Create Big Bang overlay
 const bigBangOverlay = document.createElement('div');
 bigBangOverlay.className = 'big-bang-overlay';
-bigBangOverlay.textContent = 'Loading...';
+bigBangOverlay.textContent = 'TrinitX';
 document.body.appendChild(bigBangOverlay);
 
 // Create Big Bang particles
